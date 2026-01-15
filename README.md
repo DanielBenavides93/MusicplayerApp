@@ -87,3 +87,8 @@ It fetches music charts from **Deezer**, plays preview tracks using **Media3 Exo
 - `INTERNET`
 - `FOREGROUND_SERVICE`
 - `FOREGROUND_SERVICE_MEDIA_PLAYBACK`
+
+## Architecture
+
+- Using Clean Architechture for the whole application and using MVVM for the presentation layer.
+<img width="1180" height="560" alt="MusicplayerApp_architecture_example_style_v5" src="https://github.com/user-attachments/assets/e2e8bf9d-7ed7-4c49-a540-5507d7a2e0cc" />
